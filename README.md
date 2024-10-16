@@ -1,0 +1,4 @@
+<p>Tenho 27 anos, sou graduado em Ciências Aeronáuticas pela Universidade FUMEC e atualmente curso Análise e Desenvolvimento de Software pela PUC Minas. Com uma sólida experiência de 5 anos em logística e operações aeromédicas, desenvolvi habilidades em análise de dados, documentação, liderança e melhoria de processos. Foi durante esse período que contribuí para o desenvolvimento de um sistema de gestão, o que despertou minha paixão pela tecnologia e me motivou a fazer uma transição bem-sucedida para a área de TI.
+
+                    Atualmente, atuo como Estagiário de Quality Assurance (QA), onde asseguro a qualidade dos sistemas através de testes rigorosos de aceitação, compatibilidade, regressão e integração, tanto funcionais quanto não funcionais. Minha meta é aprofundar meus conhecimentos em ferramentas de automação e testes, buscando contribuir para o desenvolvimento de sistemas escaláveis, seguros e funcionais.
+                </p>
